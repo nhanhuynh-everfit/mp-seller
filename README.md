@@ -1,6 +1,6 @@
 ## Install package and submodule
 - `npm i`
-- `npm run preinstall`
+- `npm run install`
 
 ## Run App
 - `npm run dev`

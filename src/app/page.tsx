@@ -1,6 +1,7 @@
 import Image from "next/image";
 import styles from "./page.module.css";
-import { Button } from "./shared/src/shared/Button";
+import { Button } from "../../shared/src/shared/Button";
+
 
 export default function Home() {
   return (
